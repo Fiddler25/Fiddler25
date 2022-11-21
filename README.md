@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Fiddler25/Fiddler25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,ruby,graphql)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,rails,react,nextjs,styledcomponents,jest,apollo)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,prisma)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,figma,idea)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiddler25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
